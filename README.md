@@ -22,4 +22,7 @@ localhost:3000
 
 https://agsnetflixclone.netlify.app/
 
+# sidenote
+
+- This project like i stated earlier is not complete yet and is not mobile responsive.
 
