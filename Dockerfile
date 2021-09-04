@@ -1,11 +1,9 @@
 # getting image from nginx
 FROM nginx:alpine
 
-RUN get-apt update
-
 MAINTAINER agnesarong@gmail.com
 
-COPY ./var/www/html
+COPY . /var/www/html
 
 EXPOSE 80
 
