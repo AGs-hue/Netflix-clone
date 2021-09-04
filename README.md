@@ -6,7 +6,7 @@
 
 ## Usage
 
-- ```Docker
+```Docker
 
 # build container image
 docker build -t netflixclone .
