@@ -1,5 +1,5 @@
-# getting image from ubuntu
-FROM ubuntu
+# getting image from nginx
+FROM nginx:alpine
 
 RUN get-apt update
 
